@@ -10,6 +10,17 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - PostgreSQL
 - Power BI
 
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize key insights from the pizza sales data.
+
+### Dashboard Highlights
+- Sales KPIs (Revenue, Orders, AOV)
+- Time-based order trends (Daily, Hourly, Monthly)
+- Category & size performance
+- Top-selling pizzas.
+
+
 ## Project Structure
 
 ### 1.Database Setup
