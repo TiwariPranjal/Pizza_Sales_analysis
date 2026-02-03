@@ -20,6 +20,12 @@ An interactive Power BI dashboard was created to visualize key insights from the
 - Category & size performance
 - Top-selling pizzas.
 
+## 📸 Screenshots:
+** Home_Dashboard**
+<img width="1742" height="841" alt="Home Dashboard" src="https://github.com/user-attachments/assets/d5f43d6b-c31b-4092-a942-fda90b3a037b" />
+
+**Best_Worst Sellers**
+<img width="1740" height="836" alt="Best_Worst Sellers DAshboard" src="https://github.com/user-attachments/assets/de3aa2f4-6e87-40ea-85d6-9c1d1b3788e5" />
 
 ## Project Structure
 
